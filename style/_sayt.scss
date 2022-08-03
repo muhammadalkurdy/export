@@ -1,0 +1,77 @@
+.sayt {
+    width: 370px;
+    height: 65px;
+    background: #FFFFFF;
+    box-shadow: 0px 7px 24px rgba(48, 56, 64, 0.16);
+    border-radius: 6px;
+    margin-left: 310px;
+    margin-top: 33px;
+    display: flex;
+
+
+}
+
+.sayt-img {
+    width: 208px;
+    height: 37px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 20px;
+
+
+    .sayt-icon {
+        margin-top: 15px;
+    }
+
+    .sayt-iconn {
+        width: 37px;
+        height: 37px;
+        background: #3CC8AE;
+        box-shadow: 0px 22px 34px rgba(60, 200, 174, 0.5);
+        border-radius: 6px;
+        margin-top: 14px;
+
+        .sayt-link {
+            margin: 9px;
+        }
+    }
+}
+
+.sayt-line {
+    width: 1px;
+    height: 65px;
+    background: #D8D8D8;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-left: 20px;
+}
+
+.sayt-text {
+    width: 77px;
+    height: 40px;
+    margin: auto;
+
+    .sayt-par {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 15px;
+        text-align: center;
+        letter-spacing: -0.15px;
+        color: #000000;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+    }
+
+    .sayt-chislo {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 25px;
+        letter-spacing: -0.2px;
+        color: #152739;
+    }
+}

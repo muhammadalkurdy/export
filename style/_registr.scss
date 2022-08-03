@@ -1,0 +1,68 @@
+.registr {
+    width: 820px;
+    height: 221px;
+    background: linear-gradient(180deg, #F7F8FA 0%, #EDF1F5 100%);
+    margin-top: 40px;
+    margin-left: 310px;
+}
+
+.registr-text {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 28px;
+    letter-spacing: -0.777778px;
+    color: #152739;
+    padding-top: 36px;
+    margin-left: 36px;
+
+}
+
+.registr-par {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.2px;
+    color: #152739;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-top: 16px;
+    margin-left: 36px;
+}
+
+.registr-input {
+    width: 431px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #D4D8DF;
+    border-radius: 3px;
+    margin-top: 23px;
+    margin-left: 36px;
+}
+
+.registr-but {
+    width: 160px;
+    height: 52px;
+    background: #3CC8AE;
+    box-shadow: 0px 22px 34px rgba(60, 200, 174, 0.5);
+    border-radius: 3px;
+    border: none;
+    margin-left: 16px;
+
+    .registr-a {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 15px;
+        text-align: center;
+        letter-spacing: 1.4px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        text-decoration: none;
+
+    }
+}

@@ -1,0 +1,34 @@
+.hero {
+    width: 820px;
+    height: 419px;
+    margin: auto;
+    margin-top: 51px;
+
+    .hero-img {
+        margin-top: 32px;
+    }
+}
+
+.hero-text {
+    width: 166px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+    .hero-par {
+        width: 142px;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        letter-spacing: -0.2px;
+        color: #3CC8AE;
+        mix-blend-mode: normal;
+        opacity: 0.9;
+        text-decoration: none;
+        margin-left: 12px;
+    }
+
+}

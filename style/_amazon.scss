@@ -1,0 +1,28 @@
+.amazon {
+    width: 820px;
+    height: 607px;
+    margin-left: 310px;
+    margin-top: 40px;
+
+    .amazon-text {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: -0.5px;
+        color: #152739;
+    }
+
+    .amazon-par {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        color: #000000;
+        mix-blend-mode: normal;
+        opacity: 0.8;
+        margin-top: 17px;
+    }
+}

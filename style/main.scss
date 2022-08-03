@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+// .btnjon{
+//     display: none;
+// }
+// @media (max-width:376px){
+//     .header-text{
+//         display: none;
+//     }
+//     .hero{
+//         display: none;
+//     }
+//     .hero-par{
+//         font-weight: 700;
+//         font-size: 15px;
+//         line-height: 18px;
+//         /* identical to box height */
+
+//         letter-spacing: -0.166667px;
+//     }
+//     .header-but{
+//         display: none;
+//     }
+//     .btnjon{
+//         display: block;
+//     }
+// }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner {
+    width: 1440px;
+    height: 100%;
+
+
+}
+
+
+
+
+@import "header";
+@import "hero";
+@import "fakt";
+@import "sayt";
+@import "servic";
+@import "amazon";
+@import "box";
+@import "more";
+@import "import";
+@import "btn";
+@import "registr";
+@import "saytt";
+@import "tema";
+@import "footer";
+@import "btn-paragraph";
+@import "line";
+
+

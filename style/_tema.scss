@@ -1,0 +1,92 @@
+.tema {
+    width: 1440px;
+    height: 591px;
+    background: linear-gradient(180deg, #F7F8FA 0%, #EDF1F5 100%);
+    margin-top: 65px;
+}
+
+.tema-bonima {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    height: 45px;
+    margin-left: 80px;
+    padding-top: 48px;
+
+    .tema-text {
+        width: 390px;
+        height: 45px;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 44px;
+        letter-spacing: -1px;
+        color: #152739;
+    }
+
+    .tema-a {
+        width: 103px;
+        height: 21px;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        letter-spacing: -0.2px;
+        color: #3CC8AE;
+        mix-blend-mode: normal;
+        opacity: 0.9;
+        text-decoration: none;
+    }
+}
+
+.tema-paragraph {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-top: 32px;
+
+    .tema-par-one {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        text-transform: uppercase;
+        color: #152739;
+        mix-blend-mode: normal;
+        opacity: 0.4;
+        margin-top: 19px;
+        margin-bottom: 10px;
+    }
+
+    .tema-par-two {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 25px;
+        letter-spacing: -0.403846px;
+        color: #000000;
+        margin-bottom: 14px;
+
+
+    }
+
+    .tema-a-two {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        letter-spacing: -0.2px;
+        color: #3CC8AE;
+        mix-blend-mode: normal;
+        opacity: 0.9;
+        text-decoration: none;
+    }
+
+}
